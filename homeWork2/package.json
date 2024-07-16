@@ -1,0 +1,12 @@
+{
+  "name": "check-season",
+  "version": "1.0.0",
+  "description": "The package adds a function to determine the time of year",
+  "main": "season.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vika Vihnovskaya",
+  "license": "ISC"
+}
